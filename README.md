@@ -1,6 +1,6 @@
 # Descrição
 
-Exemplo de aplicação Spring Boot com Rest API + Redis. Documentação da API disponivel em: [http://localhost:8080/swagger-ui](http://localhost:8080/swagger-ui).
+Exemplo de aplicação Spring Boot com Rest API + Redis. Documentação da API disponivel em: [swagger](http://localhost:8080/swagger-ui/index.html)
 # Configuração do Redis
 ```bash
 docker pull redis/redis-stack-server:latest
